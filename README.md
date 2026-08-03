@@ -9,15 +9,11 @@ SQL for CRM,
 Email Campaign Optimization,
 D2C Retention Case Study.
 
-
-┌──────────────────────────────────────────────────────────┐
-│ 🚀 LIFECYCLE MARKETING CASE STUDY                        │
-│                                                          │
-│ Designing a D2C lifecycle program to increase            │
-│ repeat purchases and customer retention.                 │
-│                                                          │
-│ Tools: SFMC | SQL | CRM | Email | SMS                   │
-└──────────────────────────────────────────────────────────┘
+LIFECYCLE MARKETING CASE STUDY                      
+                                                          
+Designing a D2C lifecycle program to increase            
+Repeat purchases and customer retention.                 
+Tools: SFMC | SQL | CRM | Email | SMS                  
 
 
 BUSINESS PROBLEM
@@ -54,9 +50,8 @@ JOURNEY ARCHITECTURE
      ↓
 [Segmentation]
      ↓
-┌────────────┬────────────┬─────────────┐
-│ New Buyer  │  Engaged   │  At Risk    │
-└────────────┴────────────┴─────────────┘
+
+│ New Buyer  │  Engaged   │  At Risk   
       ↓             ↓             ↓
    Welcome       Cross-sell      Winback
       ↓             ↓             ↓
